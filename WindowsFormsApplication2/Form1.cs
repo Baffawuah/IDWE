@@ -215,7 +215,7 @@ namespace WindowsFormsApplication2
         }
 
    
-        //SECOND VARIATION OF FINDING D
+
 
 
 
